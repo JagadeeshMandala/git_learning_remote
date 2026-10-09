@@ -1,1 +1,1 @@
-"timeout=40" 
+timeout=40
